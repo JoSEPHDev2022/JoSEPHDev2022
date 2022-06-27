@@ -1,8 +1,8 @@
 ![Banner](https://github.com/JoSEPHDev2022/JoSEPHDev2022/blob/main/header.png?raw=true)
 
-Hi! I'm from Brazil and learning how to code. At the moment I use Python for everything, since it is my first language that I decided to lear. My focus is to use the language in the field of Data Analytics and design projects based around the data, because I find really amazing how the use of programming can be so expansive and beneficial to the society as a whole. In the future, I intend to expand my knowledge even more in Python and other languages such as JavaScript.
+Hi! I'm from Brazil and learning how to code. At the moment I use Python for everything, since it is my first language that I decided to learn. My focus is to use the language in the field of Data Analytics and design projects based around the data, because I find really amazing how the use of programming can be so expansive and beneficial to the society as a whole. In the future, I intend to expand my knowledge even more in Python and other languages such as JavaScript.
 
-For my programming projects, I usually only upload to Github once I make significant progress in them. At the moment, I'm coding my very first Python project and it will be added in a repository here soon. Feel free to create a pull request to contribute to any of my repositories once they're added!
+For my programming projects, I usually only upload to Github once I make significant progress in them. At the moment, I finish coding my very first Python project that I added in the repository named  "projeto-m1". Feel free to take a look and to create a pull request to contribute to any of my repositories once they're added!
 
 - 🌱 I’m currently learning Python, focusing on Data Analytics.
 - 🔭 I’m currently working on learning how to progam and the uses it has.
