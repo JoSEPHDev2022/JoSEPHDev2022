@@ -14,4 +14,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 - LinkedIn: (https://www.linkedin.com/in/jos%C3%A9-luiz-ferreira-junior-02a5141b1/)
 - e-mail: jl_ferreira16@hotmail.com
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFdev)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSEPHDev2022)](https://github.com/anuraghazra/github-readme-stats)
