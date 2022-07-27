@@ -13,6 +13,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 📫 How to reach me:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 (https://www.linkedin.com/in/jos%C3%A9-luiz-ferreira-junior-02a5141b1/)
 
 e-mail: jl_ferreira16@hotmail.com
