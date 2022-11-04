@@ -1,4 +1,4 @@
-![Banner](https://github.com/JoSEPHDev2022/JoSEPHDev2022/blob/main/header.png?raw=true)
+![Banner](https:/C:\Users\jr_fe\OneDrive\Documentos\GitHub\JoSEPHDev2022\bann.png)
 
 ---
 
@@ -8,15 +8,21 @@
 
 <font size='4'>I have in the 'pins' section of my repositories, a list containing my main projects on this journey of learning Data Analysis.
 
-<font size='4'>The fields in witch I like to study and practice at the moment are:
+---
 
-- Pandas 🐼
-- NumPy 🔢
-- Matplotlib 📊
-- Seaborn 🧭
-- PostgreSQL 🐘
-- Google Colab 📔
-- Jupyter Notebook 📔
+<font size='4'>What I use and know:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Seaborn |
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+<font size='4'>What I'm learning at the moment:
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Tableau |
 
 #
 - 🌱 I’m currently learning Python, focusing on Data Analytics.  
@@ -29,8 +35,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-luiz-ferreira-junior-02a5141b1/)
 
-
-e-mail: jl_ferreira16@hotmail.com
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) |  jl_ferreira16@hotmail.com 
     
 ---
     
