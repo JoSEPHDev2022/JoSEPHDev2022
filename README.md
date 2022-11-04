@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/JoSEPHDev2022/banner_image/main/bann.png?token=GHSAT0AAAAAABWNV2NDXW3B2Q3O4D75RRZYY3EMHJQ)
+![banner](https://github.com/JoSEPHDev2022/banner_image/blob/main/bann.png)
 
 ---
 
