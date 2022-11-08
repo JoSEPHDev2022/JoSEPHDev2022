@@ -1,7 +1,10 @@
-![banner](https://github.com/JoSEPHDev2022/banner_image/blob/main/bann.png)
+![banner](https://raw.githubusercontent.com/JoSEPHDev2022/JoSEPHDev2022/main/bann.png)
 
 ---
+### Visitor count
+<img src="https://profile-counter.glitch.me/JoSEPHDev2022/count.svg"/>
 
+---
 <font size='4'>Hi! I'm from Brazil and learning how to code. At the moment I use Python for everything, since it is my first language that I decided to learn. My focus is to use the language in the field of Data Analytics and design projects based around the data. In the future, I intend to expand my knowledge even more in Python and work in the field of Data Science.
 
 <font size='4'>For my programming projects, I usually only upload to Github once I make significant progress in them. Feel free to take a look and to create a pull request to contribute to any of my repositories once they're added!
@@ -35,7 +38,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-luiz-ferreira-junior-02a5141b1/)
 
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) |  jl_ferreira16@hotmail.com 
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+jl_ferreira16@hotmail.com
     
 ---
     
