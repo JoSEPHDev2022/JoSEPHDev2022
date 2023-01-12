@@ -34,6 +34,16 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Tableau |
 
 ---
+## **Current Projects** 📁
+
+> [Mental_Health_X_Music](https://github.com/JoSEPHDev2022/Mental_Health_X_Music)
+>
+> In this project, I'm doing a EDA on a dataset containing data about the relations between music genres and mental health. The README file containg more details is going to be made once a make mor progress on the data analysis.
+
+> [IBGE_Data_Analytics](https://github.com/JoSEPHDev2022/IBGE_Data_Analytics)
+>
+> This is a joint project between me and my friend [Pedro](https://github.com/pedrorcm), where we are analisig a data set of social-economic data relating to Brazil and its population. THe README file will e added further in the project.
+---
 
 ## **About me** 😄
 - 🌱 I’m currently learning Python, focusing on Data Analytics.  
@@ -51,10 +61,3 @@
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 jl_ferreira16@hotmail.com
-    
----
-## **Stats**
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSEPHDev2022)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoSEPHDev2022)](https://github.com/anuraghazra/github-readme-stats)
