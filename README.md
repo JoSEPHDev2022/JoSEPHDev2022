@@ -32,6 +32,64 @@
 > This EDA project is a part of a bigger endevour based on exploring data from scores from users and critics in the Metacritic site. The scores that I am working with are Films (this project), Games (already done! You can have a look at it in here > https://github.com/JoSEPHDev2022/Metacritc_Scores_Video_Games), Music (coming later) and TV (coming later to). 
 
 ---
+## **How I do My EDA's: A Basic Rundown** 📊
+
+**1. Understanding the Data**
+
+In this first step, after collecting and importing the data, I work on getting a general ideia of the Dataset, and to accomplish that, I use the following Pandas methods:
+
+```python
+data.describe()    # Statistical description of the variables.
+data.info()        # General info about the variabels, such as dtypes and memory usage.
+data.isna()        # Count the total of null data points.
+data.shape()       # The dimensions of the Dataset (how many rows and collumns).
+```
+
+**2. Data Prep and Transformation**
+
+This step is very important, in that it is where I manipulate the Dataset, changing Data Types, variable names and also engineering new features to the Dataset, as in, I create new variables based on existing ones to further increase my analysis capabilities. In other words, I:
+
+- Drop useless or undesirable variables;
+
+- Rename the variables if necessary;
+
+- Handle missing values;
+
+- Change data types;
+
+- Handle duplicates;
+
+- Add new features to the Dataset (feature engineering).
+
+**3. Univariate Analysis**
+
+Here I begin my outlier assessment, and for that I mainly use the following features:
+
+```python
+data.hist()            # Histogram to visualize the data distribution.
+data.value_counts()    # Determine witch data points are most occuring in the variable.
+data.skew()            # Determine the skewness of the data.
+data.kurt()            # Determine the Kurtosis of the data.
+``` 
+
+For reference, this is how to determine skewness:
+
+![skew_graph](https://www.biologyforlife.com/uploads/2/2/3/9/22392738/c101b0da6ea1a0dab31f80d9963b0368_orig.png)
+
+And, for the Kurtosis:
+
+![kurt_graph](https://ars.els-cdn.com/content/image/3-s2.0-B9780128168189000159-f05-02-9780128168189.jpg)
+
+**4. Multivariate Analysis**
+
+This is where I analyze the correlation between the different variables of the Dataset, for that, I use seaborn's heatmaps, pairplots and boxplots.
+
+
+**5. Questions, Insights and Answers**
+
+As the final step, I ask different relevant question after analyzing the data, seeking to find out the most relevant insights for that specific Dataset. 
+
+---
 
 ## **About me** 😄
 - 👨‍💻 I’m currently focusing on improving my habilities with Python, focusing on specializing even more in Data Analytics, mainly with Exploratory Data Analisys using statistics; 
