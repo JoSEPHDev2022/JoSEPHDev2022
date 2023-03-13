@@ -22,41 +22,33 @@
 ## **Techs** 💻
 <font size='4'>What I use and know:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Seaborn |
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<font size='4'>What I'm learning at the moment:
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Tableau |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Seaborn |![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Tableau |
 
 ---
 ## **Current Projects** 📁
 
-> [Mental_Health_X_Music](https://github.com/JoSEPHDev2022/Mental_Health_X_Music)
+> [Metacritic_Score_Films](https://github.com/JoSEPHDev2022/Metacritic_Score_Films)
 >
-> In this project, I'm doing a EDA on a dataset containing data about the relations between music genres and mental health. The README file containg more details is going to be made once a make mor progress on the data analysis.
+> This EDA project is a part of a bigger endevour based on exploring data from scores from users and critics in the Metacritic site. The scores that I am working with are Films (this project), Games (already done! You can have a look at it in here > https://github.com/JoSEPHDev2022/Metacritc_Scores_Video_Games), Music (coming later) and TV (coming later to). 
 
-> [IBGE_Data_Analytics](https://github.com/JoSEPHDev2022/IBGE_Data_Analytics)
->
-> This is a joint project between me and my friend [Pedro](https://github.com/pedrorcm), where we are analisig a data set of social-economic data relating to Brazil and its population. THe README file will e added further in the project.
 ---
 
 ## **About me** 😄
-- 🌱 I’m currently learning Python, focusing on Data Analytics.  
-- 🔭 I’m currently working on learning how to generate insights from estatistical Data Analysis.
-- 😀 I like to play games, code, do side projects like Exploratory data analysis on multiple data sets, listen to metal music (favorite band: Bolt Thrower 🎧), and pet my cats in my free time.
+- 👨‍💻 I’m currently focusing on improving my habilities with Python, focusing on specializing even more in Data Analytics, mainly with Exploratory Data Analisys using statistics; 
+
+- 🔭 I currently work as a Assistant professor in the same institution that I studied data science! Resilia Educação. There I teach and help students learn and grow using the Python language to make awesome data science projects!
+
+- 😀 I like to play games, code, do side projects like Exploratory data analysis on multiple data sets, listen to metal music (favorite band: Bolt Thrower 🎧 🤘), and pet my cats... A LOT 🐱.
+
 - 💬 I love talking to people and sharing stories.
-- ⚡ Fun fact: I have a degree in History and developed an academic research project in the area, before coming to learn Programming!
+
+- ⚡ Fun fact: I have a degree in History and developed an academic research project in the area, before coming to the Data Science camp!
 
 ---
 
 **How to reach me** 📫 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-luiz-ferreira-junior-02a5141b1/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luiz-ferreira-junior/)
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
