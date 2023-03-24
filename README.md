@@ -18,20 +18,17 @@
 
 <font size='4'>I have in the 'pins' section of my repositories, a list containing my main projects on this journey of learning Data Analysis.
 
----
 ## **Techs** 💻
 <font size='4'>What I use and know:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Seaborn |![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Tableau |
 
----
 ## **Current Projects** 📁
 
 > [Metacritic_Score_Films](https://github.com/JoSEPHDev2022/Metacritic_Score_Films)
 >
 > This EDA project is a part of a bigger endevour based on exploring data from scores from users and critics in the Metacritic site. The scores that I am working with are Films (this project), Games (already done! You can have a look at it in here > https://github.com/JoSEPHDev2022/Metacritc_Scores_Video_Games), Music (coming later) and TV (coming later to). 
 
----
 ## **How I do My EDA's: A Basic Rundown** 📊
 
 **1. Understanding the Data**
@@ -89,8 +86,6 @@ This is where I analyze the correlation between the different variables of the D
 
 As the final step, I ask different relevant question after analyzing the data, seeking to find out the most relevant insights for that specific Dataset. 
 
----
-
 ## **About me** 😄
 - 👨‍💻 I’m currently focusing on improving my habilities with Python, focusing on specializing even more in Data Analytics, mainly with Exploratory Data Analisys using statistics; 
 
@@ -101,8 +96,6 @@ As the final step, I ask different relevant question after analyzing the data, s
 - 💬 I love talking to people and sharing stories.
 
 - ⚡ Fun fact: I have a degree in History and developed an academic research project in the area, before coming to the Data Science camp!
-
----
 
 **How to reach me** 📫 
 
