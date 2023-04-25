@@ -3,95 +3,136 @@
 ---
 <h1>
     <p align="center">
-        <b>Visitor count 📋</b>
-    </p>
-    <p align="center">
-        <img src="https://profile-counter.glitch.me/JoSEPHDev2022/count.svg"/>
+        <b>Portfólio 📋</b>
     </p>
 </h1>
 
-## **Sumary** 📰
+A seguir, os projetos centrais de destaque no meu perfil!
 
-<font size='4'>Hi! I'm from Brazil and developing my skills as a Data Analyst. At the moment I use Python for everything, since it is my main language that I decided to learn (for the protagonism it has on Data Science). My focus is to use the language in the field of Data Analytics and design projects based around the data. In the future, I intend to expand my knowledge even more in Python and work in the field of Data Science, learning new languages such as R to.
+<h3>
+<p align="center">
+    <b>
+    1. Processo de ETL: Carregamento, Transformação e Análise de Dados Financeiros pelo Power BI
+    </b>
+</p>
+</h3>
 
-<font size='4'>For my programming projects, I usually upload frequently to Github. Feel free to take a look and to create a pull request to contribute to any of my repositories once they're added!
+Link > https://github.com/JoSEPHDev2022/Dash_Financeiro_Power_BI
 
-<font size='4'>I have in the 'pins' section of my repositories, a list containing my main projects on this journey of learning Data Analysis.
+>O objetivo central desse projeto foi de desenvolver minhas capacidades de extração de dados, transformação desses registros utilizando a linguagem DAX do Power BI, engenharia de atributos e criação de medidas na plataforma de dashboards, assim como também criar um dashboard com um design intuitivo e amigável, com cores e padronizações especificas para cada empresa e seu respectivo relatório.
 
-## **Techs** 💻
-<font size='4'>What I use and know:
+<h3>
+<p align="center">
+    <b>
+    2. Análise Exploratória Descritiva-Estatistica de Dados: Site de Filmes Pirateados
+    </b>
+</p>
+</h3>
+
+Link > https://github.com/JoSEPHDev2022/EDA_Pirated_Movies
+
+> Este projeto tem como objetivo servir de aprimoramento em minhas capacidades de análise de dados utilizando estatística descritiva, gráficos e plots com Python,
+manipulação de dados com Pandas entre outras coisas. Como toda Análise Exploratória que realizo, esse projeto segue um caminho definido de etapas (esse caminho está descrito mais abaixo neste README). Por se tratar de um projeto bem detalhado e com várias etapas, ele ainda encontra-se em produção, porém deixo em destaque por se tratar do meu projeto mais recente e avançado de EDA.
+
+<h1>
+    <p align="center">
+        <b>Mas afinal, quem sou eu? 📰 </b>
+    </p>
+</h1>
+
+
+Olá! me chamo José Luiz, um brasileiro residente do estado de São Paulo que está em busca de um constante aprimoramento profissional na área de Dados! Para uma visão mais holistica sobre mim, recomendo uma passadinha em meu [LinkedIn](https://www.linkedin.com/in/jose-luiz-ferreira-junior/)! Mas para dar alguns bullet-points:
+
+- 👨‍💻 Atualmente estou focando em aprimorar minhas habilidades com Python, focando em me especializar ainda mais em Data Analytics, principalmente com Análise Exploratória de Dados usando estatística;
+
+- 🔭 Atualmente trabalho como professor assistente na mesma instituição em que estudei análise de dados! Resília Educação. Lá eu ensino e ajudo os alunos a aprender e crescer usando a linguagem Python para fazer projetos incríveis de análise de dados;
+
+- Gosto de jogar games, codar, fazer projetos paralelos como análise exploratória de dados em vários conjuntos de dados, ouvir música metal (banda favorita: Bolt Thrower 🎧 🤘) e dar muito carinho nas minhas gatinhas ❤️🐱;
+
+- 💬 Adoro conversar com as pessoas e compartilhar histórias.
+
+- ⚡ Curiosidade: sou formado em História e desenvolvi um projeto de pesquisa acadêmica na área, antes de vir para a área de Data Analysis!
+
+Por aqui você encontrará uma gama de repositórios, alguns pertencentes ao meu período de estudante na Resilia Educação, onde esses projetos geralmente consistem em programação em Python e conceitos mais simples, contendo código escrito por um iniciante em Python! Por mais que esses projetos estejam desatualizados e eu já tenha ultrapassado as habilidades apresentadas neles, sempre acho legal deixá-los amostra para demonstrar minha evolução na área!
+
+Os projetos centrais são de Análise Exploratória de Dados, algo que amo fazer em todo tipo de Dataset. Cheque a seção de "Portfólio" para entrar em contato com os mais recentes e avançados.
+
+<h1>
+    <p align="center">
+        <b>Tecnologias que Utilizo Diariamente 💻 </b>
+    </p>
+</h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Seaborn |![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Tableau |
 
-## **How I do My EDA's: A Basic Rundown** 📊
+<h1>
+    <p align="center">
+        <b>Etapas do Processo de Criação de uma EDA: Um Guia Detalhado 📊 </b>
+    </p>
+</h1>
 
-**1. Understanding the Data**
+**1. Compreendendo os Dados**
 
-In this first step, after collecting and importing the data, I work on getting a general ideia of the Dataset, and to accomplish that, I use the following Pandas methods:
+Nesta primeira etapa, após coletar e importar os dados, trabalho para obter uma ideia geral do Dataset e, para isso, utilizo os seguintes métodos do Pandas:
 
 ```python
-data.describe()    # Statistical description of the variables.
-data.info()        # General info about the variabels, such as dtypes and memory usage.
-data.isna()        # Count the total of null data points.
-data.shape()       # The dimensions of the Dataset (how many rows and collumns).
+data.describe()    # Descrição estatística das variáveis.
+data.info()        # Informações gerais sobre as variáveis, como dtypes e uso de memória.
+data.isna()        # Contagem do total de pontos de dados nulos.
+data.shape()       # As dimensões do conjunto de dados (quantas linhas e colunas).
 ```
 
-**2. Data Prep and Transformation**
+**2. Preparando e Transformando os Dados**
 
-This step is very important, in that it is where I manipulate the Dataset, changing Data Types, variable names and also engineering new features to the Dataset, as in, I create new variables based on existing ones to further increase my analysis capabilities. In other words, I:
+Esta etapa é muito importante, pois é onde manipulo o conjunto de dados, alterando tipos de dados, nomes de variáveis ​​e também projetando novos recursos para o conjunto de dados, ou seja, crio novas variáveis ​​com base nas existentes para aumentar ainda mais minhas capacidades de análise. Em outras palavras, essa etapa consiste em:
 
-- Drop useless or undesirable variables;
+- Eliminar variáveis ​​inúteis ou indesejáveis;
 
-- Rename the variables if necessary;
+- Renomear as variáveis, se necessário;
 
-- Handle missing values;
+- Lidar com valores ausentes;
 
-- Change data types;
+- Alterar tipos de dados;
 
-- Handle duplicates;
+- Lidar com duplicatas;
 
-- Add new features to the Dataset (feature engineering).
+- Adicionar novos recursos ao conjunto de dados (engenharia de recursos).
 
-**3. Univariate Analysis**
+**3. Análise Univariada**
 
-Here I begin my outlier assessment, and for that I mainly use the following features:
+Aqui começo minha avaliação em busca de outliers e, para isso, uso principalmente os seguintes recursos:
 
 ```python
-data.hist()            # Histogram to visualize the data distribution.
-data.value_counts()    # Determine witch data points are most occuring in the variable.
-data.skew()            # Determine the skewness of the data.
-data.kurt()            # Determine the Kurtosis of the data.
+data.hist()            # Histograma para visualizar a distribuição dos dados.
+data.value_counts()    # Determine quais pontos de dados estão ocorrendo mais vezes na variável.
+data.skew()            # Determine a assimetria dos dados.
+data.kurt()            # Determine a Curtose dos dados.
 ``` 
 
-For reference, this is how to determine skewness:
+Para referência, é assim que determinamos assimetria:
 
 ![skew_graph](https://www.biologyforlife.com/uploads/2/2/3/9/22392738/c101b0da6ea1a0dab31f80d9963b0368_orig.png)
 
-And, for the Kurtosis:
+E, para a Curtose:
 
 ![kurt_graph](https://ars.els-cdn.com/content/image/3-s2.0-B9780128168189000159-f05-02-9780128168189.jpg)
 
-**4. Multivariate Analysis**
+**4. Análise multivariada**
 
-This is where I analyze the correlation between the different variables of the Dataset, for that, I use seaborn's heatmaps, pairplots and boxplots.
+É aqui que analiso a correlação entre as diferentes variáveis ​​do Dataset, para isso, utilizo os heatmaps, pairplots e boxplots da biblioteca seaborn.
 
 
-**5. Questions, Insights and Answers**
+**5. Perguntas, percepções e respostas**
 
-As the final step, I ask different relevant question after analyzing the data, seeking to find out the most relevant insights for that specific Dataset. 
+Como etapa final, faço várias perguntas relevantes após a análise dos dados, buscando descobrir os insights mais relevantes para aquele conjunto de dados específico.
 
-## **About me** 😄
-- 👨‍💻 I’m currently focusing on improving my habilities with Python, focusing on specializing even more in Data Analytics, mainly with Exploratory Data Analisys using statistics; 
+<h1>
+    <p align="center">
+        <b>Contatos 📫 </b>
+    </p>
+</h1>
 
-- 🔭 I currently work as a Assistant professor in the same institution that I studied data science! Resilia Educação. There I teach and help students learn and grow using the Python language to make awesome data science projects!
-
-- 😀 I like to play games, code, do side projects like Exploratory data analysis on multiple data sets, listen to metal music (favorite band: Bolt Thrower 🎧 🤘), and pet my cats... A LOT 🐱.
-
-- 💬 I love talking to people and sharing stories.
-
-- ⚡ Fun fact: I have a degree in History and developed an academic research project in the area, before coming to the Data Science camp!
-
-**How to reach me** 📫 
+Gostou do que viu por aqui? Tem feedbakcs para me dar? Quer bater um papo sobre meus projetos e ideias? Entre em contato por:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luiz-ferreira-junior/)
 
