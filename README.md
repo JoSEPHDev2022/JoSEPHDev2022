@@ -34,6 +34,18 @@ Link > https://github.com/JoSEPHDev2022/EDA_Pirated_Movies
 > Este projeto tem como objetivo servir de aprimoramento em minhas capacidades de análise de dados utilizando estatística descritiva, gráficos e plots com Python,
 manipulação de dados com Pandas entre outras coisas. Como toda Análise Exploratória que realizo, esse projeto segue um caminho definido de etapas (esse caminho está descrito mais abaixo neste README). Por se tratar de um projeto bem detalhado e com várias etapas, ele ainda encontra-se em produção, porém deixo em destaque por se tratar do meu projeto mais recente e avançado de EDA.
 
+<h3>
+<p align="center">
+    <b>
+    3. Machine-Learning com Power BI: Utilizando o Power BI em Conjunto com Python Para Criar Visualizações
+    </b>
+</p>
+</h3>
+
+Link > https://github.com/JoSEPHDev2022/Dash_Machine_Learning/tree/master
+
+> Nesse projeto, utilizei de técnicas de Machine Learning para realizar a Clusterização de Clientes de um dataset fictício. Após isso, foi criado um Dashboard pelo próprio Jupyter, Dash que foi publicado para o Power BI Service para poder ser aberto no Power BI Desktop para manipulação final.
+
 <h1>
     <p align="center">
         <b>Mas afinal, quem sou eu? 📰 </b>
