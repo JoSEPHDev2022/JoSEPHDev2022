@@ -42,7 +42,7 @@ manipulação de dados com Pandas entre outras coisas. Como toda Análise Explor
 </p>
 </h3>
 
-Link > https://github.com/JoSEPHDev2022/Dash_Machine_Learning/tree/master
+Link > https://github.com/JoSEPHDev2022/Dash_Machine_Learning
 
 > Nesse projeto, utilizei de técnicas de Machine Learning para realizar a Clusterização de Clientes de um dataset fictício. Após isso, foi criado um Dashboard pelo próprio Jupyter, Dash que foi publicado para o Power BI Service para poder ser aberto no Power BI Desktop para manipulação final.
 
